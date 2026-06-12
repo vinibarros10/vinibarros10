@@ -12,7 +12,7 @@
 - CSS
 - PHP
 - JavaScript
-- SQL
+- MySQL
 - Power BI
 - Power Platform
 
