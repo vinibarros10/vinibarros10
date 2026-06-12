@@ -1,16 +1,25 @@
-## Hi there 👋
+# Olá, eu sou o Carlos!
 
-<!--
-**vinibarros10/vinibarros10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Ciência da Computação.
 
-Here are some ideas to get you started:
+💻 Tenho interesse em tecnologia, transformação digital e melhoria contínua de processos, buscando constantemente aprendizado prático por meio de projetos, pesquisa autônoma e experiências profissionais.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Sempre aprendendo novas tecnologias e aprimorando minhas habilidades.
+
+## 🚀 Tecnologias e Ferramentas
+
+- HTML
+- CSS
+- PHP
+- JavaScript
+- SQL
+- Power BI
+- Power Platform
+
+## 🎯 Objetivos
+
+Atualmente busco desenvolver projetos que fortaleçam meus conhecimentos em programação, análise de dados e desenvolvimento de sistemas.
+
+## 📫 Contato
+
+<a href=https://www.linkedin.com/in/carlosviniciusbarros/><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt=linkedin-logo /></a>
